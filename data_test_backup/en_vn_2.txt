@@ -1,0 +1,348 @@
+Breakfast:	bữa sáng	
+Lunch:	bữa trưa	
+Dinner:	bữa tối	
+Meal:	bữa ăn	
+Apples:	quả táo	
+Avocados:	quả bơ	
+Bananas:	quả chuối	
+Beans:	đậu / đỗ	
+Bread:	bánh mì	
+Butter:	bơ	
+Carrots:	cà rốt	
+Cheese:	pho mát	
+Chicken:	thịt gà	
+Coffee:	cà phê	
+Corn:	ngô / bắp	
+Cucumbers:	dưa chuột	
+Eggs:	trứng	
+Figs:	quả sung hoặc quả vả	
+Fish:	cá	
+Food:	thực phẩm / đồ ăn	
+Fruit:	trái cây	
+Garlic:	tỏi	
+Grapes:	quả nho	
+Ice cream:	kem	
+Lemons:	quả chanh	
+Lettuce:	rau diếp	
+Meat:	thịt	
+Milk:	sữa	
+Olives:	ô liu	
+Onions:	hành tây	
+Orange juice:	nước cam	
+Oranges:	quả cam	
+Peaches:	quả đào	
+Pears:	quả lê	
+Peppers:	hạt tiêu	
+Pineapples:	quả dứa	
+Pizza:	bánh pizza	
+Potatoes:	khoai tây	
+Pumpkin:	bí ngô / bí đỏ	
+Salad:	(món) sa lát / nộm	
+Salt:	muối	
+Sandwich:	(bánh) sandwich	
+Soda (like Coke):	Soda (giống như coca-cola)	
+Strawberries:	quả dâu tây	
+Sugar:	đường	
+Tea:	trà	
+Tomatoes:	cà chua	
+Vegetables:	Rau củ	
+Water:	nước	
+Watermelon:	quả dưa hấu
+Arabic (language):	tiếng Ả Rập	
+Moroccan (nationality):	người Ma-rốc	
+Morocco (country):	nước Ma-rốc	
+Brazilian (language):	tiếng Braxin	
+Brazilian (nationality):	người Braxin	
+Brazil (country):	nước Braxin	
+Chinese (language):	tiếng Trung Quốc	
+Chinese (nationality):	người Trung Quốc	
+China (country):	nước Trung Quốc	
+English (language):	tiếng Anh	
+British (nationality):	người Anh	
+Britain (country):	nước Anh	
+American (nationality):	người Mỹ	
+America (country):	nước Mỹ	
+French (language):	tiếng Pháp	
+French (nationality):	người Pháp	
+France (country):	nước Pháp	
+German (language):	tiếng Đức	
+German (nationality):	người Đức	
+Germany (country):	nước Đức	
+Greek (language):	tiếng Hy Lạp	
+Greek (nationality):	nguời Hy Lạp	
+Greece (country):	nước Hy Lạp	
+Hindi (language):	tiếng Hindi	
+Indian (nationality):	người Ấn Độ	
+India (country):	nước Ấn Độ	
+Irish (language):	tiếng Ai-len	
+Irish (nationality):	người Ai-len	
+Ireland (country):	nước Ai-len	
+Italian (language):	tiếng Ý	
+Italian (nationality):	người Ý	
+Italy (country):	nước Ý	
+Japanese (language):	tiếng Nhật	
+Japanese (nationality):	người Nhật	
+Japan (country):	nước Nhật	
+Korean (language):	tiếng Hàn	
+Korean (nationality):	người Hàn Quốc	
+Korea (country):	nước Hàn Quốc	
+Persian (language):	tiếng Ba Tư	
+Iranian (nationality):	người Iran	
+Iran (country):	nước Iran	
+Portuguese (language):	tiếng Bồ Đào Nha	
+Portuguese (nationality):	người Bồ Đào Nha	
+Portugal (country):	nước Bồ Đào Nha	
+Russian (language):	tiếng Nga	
+Russian (nationality):người Nga	
+Russia (country):	nước Nga	
+Spanish (language):	tiếng Tây Ban Nha	
+Spanish (nationality)	:người Tây Ban Nha	
+Spain (country):	nước Tây Ban Nha
+Belt:	dây thắt lưng	
+Clothes:	quần áo	
+Coat:	áo khoác	
+Dress:	váy	
+Glasses:	kính mắt	
+Gloves:	Găng tay	
+Hat:	mũ hoặc nón	
+Jacket:	áo giắc-két	
+Pants (Trousers):	quần dài	
+Ring:	nhẫn	
+Shirt:	áo sơ mi	
+Shoes:	giày	
+Socks:	bít tất / vớ	
+Suit:	bộ veston	
+Sweater:	áo len chui đầu	
+Tie:	cà vạt	
+Umbrella:	ô hoặc dù	
+Underwear:	đồ lót	
+Wallet:	ví	
+Watch:	đồng hồ
+Answer:	câu trả lời	
+Book:	cuốn sách	
+Books:	sổ sách	
+Chair:	ghế	
+Desk:	bàn	
+Dictionary	: từ điển	
+Laptop:	máy tính xách tay	
+Library:	thư viện	
+Notebook (paper notebook):	vở viết	
+Page:	trang	
+Paper:	giấy	
+Pen:	bút máy	
+Pencil:	bút chì	
+Question:	câu hỏi	
+School:	trường học	
+Student:	sinh viên	
+Teacher:	giáo viên	
+University	:trường đại học
+Arm:	tay	
+Back:	lưng	
+Chest:	ngực	
+Ear:	tai	
+Eye:	mắt	
+Face:	khuôn mặt	
+Feet:	bàn chân	
+Fingers:	những ngón tay	
+Hair:	tóc	
+Hand:	tay	
+Head:	đầu	
+Heart:	tim	
+Leg:cẳng chân	
+Mouth:	miệng	
+Neck:cổ	
+Nose:	mũi	
+Shoulder:	vai	
+Stomach:	dạ dày	
+Teeth:	răng	
+Tongue:	lưỡi
+Airplane:	phi cơ	
+Airport:	phi trường	
+Bus:	xe buýt	
+Bus station:	trạm dừng xe buýt	
+Car:	xe ô tô con	
+Flight:	chuyến bay	
+For business:	đi công tác	
+For pleasure:	đi chơi	
+Help Desk:	bộ phận hỗ trợ	
+Hotel:	khách sạn	
+Luggage:	hành lý	
+Parking:	bãi đậu xe	
+Passport:	hộ chiếu	
+Reservation:	đặt trước	
+Taxi:	taxi	
+Ticket:	vé	
+To travel:	đi du lịch	
+Tourism:	du lịch	
+Train (noun):	tàu hỏa (danh từ)	
+Train station:	ga tàu hỏa	
+By train:	Bằng tàu hỏa	
+By car:	Bằng xe hơi	
+By bus:	Bằng xe buýt	
+By taxi:	Bằng taxi	
+By airplane:	Bằng máy bay
+Aunt:	bác,cô,dì	
+Baby:	em bé	
+Boy:	bé trai	
+Brother:anh, em trai	
+Child (female):	trẻ con (nữ)	
+Child (male):	trẻ con (nam)	
+Cousin (female):	chị em họ	
+Cousin (male):	anh em họ	
+Daughter:	con gái	
+Father:	cha	
+Girl:	bé gái	
+Grandfather:	ông nội or ông ngoại	
+Grandmother:	bà nội or bà ngoại	
+Husband:	chồng	
+Man:	người đàn ông	
+Mother:	mẹ	
+Nephew:	cháu trai	
+Niece:	cháu gái	
+People:	con người	
+Sister:	chị, em gái	
+Son:	con trai	
+Uncle:	chú, bác, cậu	
+Wife:	vợ	
+Woman:	người phụ nữ
+Actor:	Diễn viên nam	
+Actress:	Diễn viên nữ	
+Artist:	Nghệ sĩ	
+Businessman:	doanh nhân	
+Doctor:	bác sĩ	
+Engineer:	Kỹ sư	
+Nurse:	Y tá	
+Policeman:	cảnh sát	
+Singer:	ca sĩ	
+Student:	sinh viên	
+Teacher:	giáo viên	
+Translator:	Dịch giả
+Day:	Ngày	
+Monday:	thứ hai	
+Tuesday:	thứ ba	
+Wednesday:	thứ tư	
+Thursday:	thứ năm	
+Friday:	thứ sáu	
+Saturday:	thứ bảy	
+Sunday:	chủ nhật	
+January:	tháng giêng or tháng một	
+February:	tháng hai	
+March:	tháng ba	
+April:	tháng tư	
+May:	tháng năm	
+June:	tháng sáu	
+July:	tháng bảy	
+August:	tháng tám	
+September:	tháng chín	
+October:	tháng mười	
+November:	tháng mười một	
+December:	tháng mười hai	
+Autumn:	mùa thu	
+Winter:	mùa đông	
+Spring:	mùa xuân	
+Summer:	mùa hè	
+Seasons:	mùa	
+Months:	tháng	
+Time:	thời gian	
+Hour:	giờ	
+Minute:	phút	
+Second:	giây
+Accident:	tai nạn	
+Allergy:	dị ứng	
+Ambulance:	xe cứu thương	
+Asthma:	bệnh hen suyễn	
+Danger:	nguy hiểm	
+Doctor:	bác sĩ	
+Headache:	đau đầu	
+Heart attack:	đau tim	
+Help me:	giúp tôi	
+Hospital:	bệnh viện	
+Medicines	:thuốc	
+Pharmacy:nhà thuốc	
+Poison:	chất độc	
+Police:	cảnh sát	
+Stomach ache:	đau bụng	
+Stroke:	đột quỵ
+Black:	màu đen	
+Blue:	màu xanh da trời	
+Brown:	màu nâu	
+Color:	màu sắc	
+Dark color:	màu đậm	
+Gray:	màu xám	
+Green:	màu xanh lá cây	
+Light color:	màu nhạt	
+Orange:	màu da cam	
+Red:	màu đỏ	
+White:	màu trắng	
+Yellow:	màu vàng
+Autumn:	mùa thu	
+Cloudy:	nhiều mây	
+Cold:	lạnh	
+Foggy:	có sương mù	
+Hot:	nóng	
+Humid:	ẩm	
+Rain:	mưa	
+Rainy:	nhiều mưa	
+Snow:	tuyết	
+Snowing:	tuyết rơi	
+Spring:	mùa xuân	
+Storm:	mùa hè	
+Sun:	mặt trời	
+Sunny:	nắng	
+Umbrella:	ô hoặc dù	
+Warm:	ấm áp	
+Wind:	gió	
+Windy:	nhiều gió	
+Winter:	mùa đông
+Bank:	ngân hàng	
+Beach:	bãi biển	
+Desert:	sa mạc	
+Earth:	trái đất	
+Forest:	khu rừng	
+Garden:	khu vườn	
+Hospital:	bệnh viện	
+Island:	hòn đảo	
+Lake:	cái hồ	
+Moon:	mặt trăng	
+Mountain:	ngọn núi	
+River:	dòng sông	
+Sea:	biển	
+Sky:	bầu trời	
+Stars:	những ngôi sao	
+Sun:	mặt trời
+Cafe:	Cà phê	
+Cash:	tiền mặt	
+Cheap:	Rẻ	
+Check:	séc	
+Cinema:	Rạp chiếu phim	
+Credit card:	thẻ tín dụng	
+Expensive	:đắt tiền	
+Gas station:	Nhà ga	
+Museum:	Viện bảo tàng	
+Parking:	bãi đậu xe	
+Pharmacy	:nhà thuốc	
+Supermarket:	siêu thị
+Animal:	động vật	
+Bear:	con gấu	
+Bird:	con chim	
+Butterfly:	con bướm	
+Cat:	con mèo	
+Cow:	con bò	
+Dog:	con chó	
+Donkey:	con lừa	
+Eagle:	diều hâu / đại bàng	
+Elephant:con voi	
+Farm:	nông trại / trang trại	
+Forest:	rừng	
+Goat:	con dê	
+Horse:	con ngựa	
+Insect:	côn trùng	
+Lion:	con sư tử	
+Monkey:	con khỉ	
+Mosquito:	con muỗi	
+Mouse:	con chuột	
+Rabbit:	con thỏ	
+Sheep (plural):	con cừu (số nhiều)	
+Snake:	con rắn	
+Spider:	con nhện	
+Tiger:	con hổ

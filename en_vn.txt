@@ -1,0 +1,367 @@
+accident:tai nạn
+actor:diễn viên nam
+actress:diễn viên nữ
+afternoon:buổi trưa, chiều
+airplane:phi cơ
+airport:phi trường
+allergy:dị ứng
+all the rage:thịnh hành,mốt
+ambulance:xe cứu thương
+american (nationality):người mỹ
+america (country):nước mỹ
+animal:động vật
+answer:câu trả lời
+apples:quả táo
+april:tháng tư
+arabic (language):tiếng ả rập
+arm:tay
+artist:nghệ sĩ
+asthma:bệnh hen suyễn
+august:tháng tám
+aunt:bác,cô,dì
+autumn:mùa thu
+avocados:quả bơ
+baby:em bé
+back:lưng
+bananas:quả chuối,cùi bắp
+bank:ngân hàng
+beach:bãi biển
+beans:đậu / đỗ
+bear:con gấu
+belt:dây thắt lưng
+bird:con chim
+black:màu đen
+blue:màu xanh da trời
+bom:quả bom
+book:cuốn sách
+books:sổ sách
+bottle wataer:chai nước
+boy:bé trai
+brazilian (language):tiếng braxin
+brazilian (nationality):người braxin
+brazil (country):nước braxin
+bread:bánh mì
+breakfast:bữa sáng
+britain (country):nước anh
+british (nationality):người anh
+brother:anh,em trai
+brown:màu nâu
+bus:xe buýt
+businessman:doanh nhân
+bus station:trạm dừng xe buýt
+butter:bơ
+butterfly:con bướm
+by airplane:bằng máy bay
+by bus:bằng xe buýt
+by car:bằng xe hơi
+by taxi:bằng taxi
+by train:bằng tàu hỏa
+cafe:cà phê
+car:xe ô tô con
+carrots:cà rốt
+cash:tiền mặt
+cat:con mèo
+chair:ghế
+cheap:rẻ
+check:séc
+cheese:pho mát
+chest:ngực
+chicken:thịt gà,sang trọng,thanh lịch
+child (female):trẻ con (nữ)
+child (male):trẻ con (nam)
+china (country):nước trung quốc
+chinese (language):tiếng trung quốc
+chinese (nationality):người trung quốc
+cinema:rạp chiếu phim
+circle:tròn,vòng luân hồi
+clothes:quần áo
+cloudy:nhiều mây
+clover:cỏ bốn lá
+coat:áo khoác
+coffee:cà phê
+cold:lạnh
+color:màu sắc
+comfortable:thoải mái
+corn:ngô,bắp
+costly:đắt tiền
+courteous:lịch sự
+cousin (female):chị em họ
+cousin (male):anh em họ
+cow:con bò
+cô gái cute học it:ngọc diệp
+crazy ceo:tổng tài bá đạo
+credit card:thẻ tín dụng
+cucumbers:dưa chuột
+danger:nguy hiểm
+dark color:màu đậm
+data structures and algorithms:csd
+daughter:con gái
+day:ngày
+december:tháng mười hai
+desert:sa mạc
+designer:nhà thiết kế
+designer labels:nhãn hiệu thời trang,đồ hàng hiệu
+desk:bàn
+dictionary:từ điển,sách tra từ
+dinner:bữa tối
+doctor:bác sĩ
+dog:con chó
+donkey:con lừa
+dress:váy
+eagle:diều hâu,đại bàng
+ear:tai
+earth:trái đất
+eggs:trứng
+elegant:thanh lịch
+elephant:con voi
+engineer:kỹ sư
+english (language):tiếng anh
+expensive:đắt tiền
+eye:mắt
+face:khuôn mặt
+farm:nông trại / trang trại
+fashionista:tín đồ thời trang
+fast fashion:thời trang nhanh
+father:cha,bố,ba
+february:tháng hai
+feet:bàn chân
+figs:quả sung hoặc quả vả
+fingers:những ngón tay
+fish:cá
+flat:căn hộ,chung cư,dẹp
+flight:chuyến bay
+foggy:có sương mù
+food:thực phẩm / đồ ăn
+forest:khu rừng
+formal:trang trọng,lịch sự
+for business:đi công tác
+for pleasure:đi chơi
+france (country):nước pháp
+french (language):tiếng pháp
+french (nationality):người pháp
+friday:thứ sáu
+fruit:trái cây
+garden:khu vườn
+garlic:tỏi
+gas station:nhà ga
+germany (country):nước đức
+german (language):tiếng đức
+german (nationality):người đức
+girl:bé gái
+glamorous:lộng lẫy
+glasses:kính mắt
+gloves:găng tay
+goat:con dê
+good-mannered:lịch sự
+grandfather:ông nội or ông ngoại
+grandmother:bà nội or bà ngoại
+grapes:quả nho
+gray:màu xám
+greece (country):nước hy lạp
+greek (language):tiếng hy lạp
+greek (nationality):nguời hy lạp
+green:màu xanh lá cây
+hair:tóc
+hand:tay
+hat:mũ hoặc nón
+head:đầu
+headache:đau đầu
+heart:tim
+heart attack:đau tim
+help desk:bộ phận hỗ trợ
+help me:giúp tôi
+hindi (language):tiếng hindi
+horse:con ngựa
+hospital:bệnh viện
+hot:nóng
+hotel:khách sạn
+hour:giờ
+humid:ẩm
+husband:chồng
+ice cream:kem
+indian (nationality):người ấn độ
+india (country):nước ấn độ
+informal:không trang trọng,bình thường thân thuộc
+insect:côn trùng
+iranian (nationality):người iran
+iran (country):nước iran
+ireland (country):nước ai-len
+irish (language):tiếng ai-len
+irish (nationality):người ai-len
+island:hòn đảo
+italian (language):tiếng ý
+italian (nationality):người ý
+italy (country):nước ý
+jacket:áo giắc-két
+january:tháng giêng or tháng một
+japanese (language):tiếng nhật
+japanese (nationality):người nhật
+japan (country):nước nhật
+july:tháng bảy
+june:tháng sáu
+khiếu thẩm mỹ:sense of style
+korean (language):tiếng hàn
+korean (nationality):người hàn quốc
+korea (country):nước hàn quốc
+lake:cái hồ
+laptop:máy tính xách tay
+leg:cẳng chân
+lemons:quả chanh
+lettuce:rau diếp
+library:thư viện
+light color:màu nhạt
+lion:con sư tử
+luggage:hành lý
+lunch:bữa trưa
+man:người đàn ông
+march:tháng ba
+may:tháng năm
+mắt thẩm mỹ:sense of style
+meal:bữa ăn
+meat:thịt
+medicines:thuốc
+milk:sữa
+minute:phút
+monday:thứ hai
+monkey:con khỉ
+monster:quái vật
+months:tháng
+moon:mặt trăng
+moroccan (nationality):người ma-rốc
+morocco (country):nước ma-rốc
+mosquito:con muỗi
+mother:mẹ
+mountain:ngọn núi
+mouse:con chuột
+mouth:miệng
+museum:viện bảo tàng
+neck:cổ
+nephew:cháu trai
+niece:cháu gái
+nose:mũi
+notebook (paper notebook):vở viết
+november:tháng mười một
+nurse:y tá
+october:tháng mười
+olives:ô liu
+onions:hành tây
+orange:màu da cam
+oranges:quả cam
+orange juice:nước cam
+page:trang
+pants (trousers):quần dài
+paper:giấy
+parking:bãi đậu xe
+passport:hộ chiếu
+peaches:quả đào
+pears:quả lê
+pen:bút máy
+pencil:bút chì
+people:con người
+peppers:hạt tiêu
+persian (language):tiếng ba tư
+pharmacy:nhà thuốc
+pho:phở
+pineapples:quả dứa
+pizza:bánh pizza
+poison:chất độc
+police:cảnh sát
+policeman:cảnh sát
+polite:lịch sự
+portugal (country):nước bồ đào nha
+portuguese (language):tiếng bồ đào nha
+portuguese (nationality):người bồ đào nha
+potatoes:khoai tây
+pumpkin:bí ngô / bí đỏ
+question:câu hỏi
+rabbit:con thỏ
+rain:mưa
+rainy:nhiều mưa
+red:màu đỏ
+reservation:đặt trước
+ring:nhẫn
+river:dòng sông
+russian (language):tiếng nga
+russian (nationality):người nga
+russia (country):nước nga
+salad:(món) sa lát / nộm
+salt:muối
+sandwich:(bánh) sandwich
+saturday:thứ bảy
+school:trường học
+sea:biển
+seasons:mùa
+second:giây
+sense of style:mắt thẩm mỹ,khiếu thẩm mỹ
+september:tháng chín
+sheep (plural):con cừu (số nhiều)
+shirt:áo sơ mi
+shoes:giày
+shoulder:vai
+singer:ca sĩ
+sister:chị,em gái
+sky:bầu trời
+snake:con rắn
+snow:tuyết
+snowing:tuyết rơi
+socks:bít tất / vớ
+soda (like coke):soda (giống như coca-cola)
+solution:giải pháp,phương pháp
+son:con trai
+spain (country):nước tây ban nha
+spanish (language):tiếng tây ban nha
+spanish (nationality):người tây ban nha
+spider:con nhện
+spring:mùa xuân
+stars:những ngôi sao
+stomach:dạ dày
+stomach ache:đau bụng
+storm:mùa hè
+strawberries:quả dâu tây
+stroke:đột quỵ
+student:sinh viên
+sugar:đường
+suit:bộ veston
+suited and booted:ăn mặc bảnh bao
+summer:mùa hè
+sun:mặt trời
+sunday:chủ nhật
+sunny:nắng
+supermarket:siêu thị
+sweater:áo len chui đầu
+taxi:taxi
+tea:trà
+teacher:giáo viên
+teeth:răng
+thursday:thứ năm
+ticket:vé
+tie:cà vạt
+tiger:con hổ
+time:thời gian
+tomatoes:cà chua
+tongue:lưỡi
+tourism:du lịch
+to travel:đi du lịch
+train station:ga tàu hỏa
+train (noun):tàu hỏa (danh từ)
+translator:dịch giả
+tuesday:thứ ba
+umbrella:ô hoặc dù
+uncle:chú,bác,cậu
+underwear:đồ lót
+university:trường đại học
+vegetables:rau củ
+yellow:màu vàng
+wallet:ví
+warm:ấm áp
+watch:đồng hồ
+water:nước
+watermelon:quả dưa hấu
+wednesday:thứ tư
+well-groomed:bảnh bao,sạch sẽ,chải chuốt
+white:màu trắng
+wife:vợ
+wind:gió
+windy:nhiều gió
+winter:mùa đông
+woman:người phụ nữ

@@ -1,0 +1,391 @@
+anh em họ:cousin (male)
+anh em trai:brother
+áo len chui đầu:sweater
+áo giắc-két:jacket
+áo khoác:coat
+áo sơ mi:shirt
+ăn mặc bảnh bao:suited and booted,well-groomed,father
+ấm áp:warm
+ẩm:humid
+bác:aunt
+bác sĩ:doctor
+bánh mì:bread
+bánh pizza:pizza
+bánh quy:cookie
+bà:grandmother
+bàn:desk
+bàn chân:feet
+bãi biển:beach
+bãi đậu xe:parking
+bằng máy bay:by airplane
+bằng taxi:by taxi
+bằng tàu hỏa:by train
+bằng xe buýt:by bus
+bằng xe hơi:by car
+bầu trời:sky
+bé gái:girl
+bé trai:boy
+bệnh hen suyễn:asthma
+bệnh viện:hospital
+biển:sea
+bít tất / vớ:socks
+bí ngô / bí đỏ:pumpkin
+bình thường thân thuộc:informal
+bố:father
+bộ phận hỗ trợ:help desk
+bộ veston:suit
+bơ:butter
+buổi trưa:afternoon
+bút chì:pencil
+bút máy:pen
+bữa ăn:meal
+bữa sáng:breakfast
+bữa tối:dinner
+bữa trưa:lunch
+ca sĩ:singer
+cá:fish
+cái hồ:lake
+cá hồi:salmon
+cà chua:tomatoes
+cà phê:cafe
+cà rốt:carrots
+cà vạt:tie
+cảnh sát:police
+căn hộ:flat,accomodation,department
+cẳng chân:leg
+câu hỏi:question
+câu trả lời:answer
+cha:father
+chai nước:bottle wataer
+cháu gái:niece
+cháu trai:nephew
+chải chuốt:well-groomed
+chất độc:poison
+chiều:afternoon
+chị em họ:cousin (female)
+chính xác:accurate
+chị:em gái
+chồng:husband
+chung cư:flat
+chuột không dây:cordless mouse
+chuyến bay:flight
+chú:bác
+chủ nhật:sunday
+con bò:cow
+con bướm:butterfly
+con chim:bird
+con chó:dog
+con chuột:mouse
+con cừu (số nhiều):sheep (plural)
+con dê:goat
+con gái:daughter
+con gấu:bear
+con hổ:tiger
+con khỉ:monkey
+con lừa:donkey
+con mèo:cat
+con muỗi:mosquito
+con người:people
+con ngựa:horse
+con nhện:spider
+con rắn:snake
+con sư tử:lion
+con thỏ:rabbit
+con trai:son
+con voi:elephant
+có sương mù:foggy
+cỏ bốn lá:clover
+côn trùng:insect
+cổ:neck
+cổ:ancient
+csd:data structures and algorithms
+cuốn lịch:calendar
+cuốn sách:book
+cùi bắp:banana
+dạ dày:stomach
+dây thắt lưng:belt
+dẹp:flat
+dễ thương:cute
+diều hâu / đại bàng:eagle
+diễn viên nam:actor
+diễn viên nữ:actress
+dịch giả:translator
+dị ứng:allergy
+doanh nhân:businessman
+dòng sông:river
+du lịch:tourism
+dưa chuột:cucumbers
+dữ liệu:data
+đau bụng:stomach ache
+đau đầu:headache
+đau tim:heart attack
+đắt tiền:expensive,costly
+đặt trước:reservation
+đầu:head
+đầy:a spoofull of
+đậu / đỗ:beans
+đi chơi:for pleasure
+đi công tác:for business
+đi du lịch:to travel
+đồng hồ:watch
+đồ hàng hiệu:designer labels
+đồ lót:underwear
+động vật:animal
+đột quỵ:stroke
+đường:sugar
+em bé:baby
+ga tàu hỏa:train station
+găng tay:gloves
+ghế:chair
+giáo viên:teacher
+giày:shoes
+giải pháp:solution
+giây:second
+giấy:paper
+gió:wind
+giờ:hour
+giúp tôi:help me
+hành lý:luggage
+hành tây:onions
+hạt tiêu:peppers
+hòn đảo:island
+hộ chiếu:passport
+kem:ice cream
+khách sạn:hotel
+khiếu thẩm mỹ:sense of style
+khoai tây:potatoes
+không trang trọng:informal
+khuôn mặt:face
+khu rừng:forest
+khu vườn:garden
+kính mắt:glasses
+kỹ sư:engineer
+lạnh:cold
+lịch sự:formal,polite,good-mannered,courteous
+lộng lẫy :glamorous
+lớn:big
+lưng:back
+lưỡi:tongue
+màu đậm:dark color
+màu nhạt:light color
+màu sắc:color
+máy tính xách tay:laptop,computer
+màu da cam:orange
+màu đen:black
+màu đỏ:red
+màu nâu:brown
+màu trắng:white
+màu vàng:yellow
+màu xanh da trời:blue
+màu xanh lá cây:green
+màu xám:gray
+mắt:eye
+mắt thẩm mỹ:sense of style
+mặt trăng:moon
+mặt trời:sun
+mẹ:mother
+miệng:mouth
+mốt:all the rage
+muối:salt
+mùa:seasons
+mùa đông:winter
+mùa hè:storm
+mùa thu:autumn
+mùa xuân:spring
+mũi:nose
+mũ hoặc nón:hat
+mưa:rain
+nắng:sunny
+ngày:day
+ngân hàng:bank
+nghệ sĩ:artist
+ngọc diệp:cô gái cute học it
+ngọn núi:mountain
+ngô / bắp:corn
+nguời hy lạp:greek (nationality)
+nguy hiểm:danger
+người ai-len:irish (nationality)
+người anh:british (nationality)
+người ấn độ:indian (nationality)
+người bồ đào nha:portuguese (nationality)
+người braxin:brazilian (nationality)
+người đàn ông:man
+người đức:german (nationality)
+người hàn quốc:korean (nationality)
+người iran:iranian (nationality)
+người ma-rốc:moroccan (nationality)
+người mỹ:american (nationality)
+người nga:russian (nationality)
+người nhật:japanese (nationality)
+người pháp:french (nationality)
+người phụ nữ:woman
+người tây ban nha:spanish (nationality)
+người trung quốc:chinese (nationality)
+người ý:italian (nationality)
+ngực:chest
+nhà chọc trời:skycraper
+nhà ga:gas station
+nhà thiết kế:designer
+nhà thuốc:pharmacy
+nhãn hiệu thời trang:designer labels,fashion
+nhẫn:ring
+nhiều gió:windy
+nhiều mây:cloudy
+nhiều mưa:rainy
+nhỏ:small,tiny,mini,minimum
+những ngón tay:fingers
+những ngôi sao:stars
+nóng:hot
+nông trại / trang trại:farm
+nổi tiếng:famous
+nước:water
+nước ai-len:ireland (country)
+nước anh:britain (country)
+nước ấn độ:india (country)
+nước bồ đào nha:portugal (country)
+nước braxin:brazil (country)
+nước cam:orange juice
+nước đức:germany (country)
+nước hàn quốc:korea (country)
+nước hy lạp:greece (country)
+nước iran:iran (country)
+nước ma-rốc:morocco (country)
+nước mỹ:america (country)
+nước nga:russia (country)
+nước nhật:japan (country)
+nước pháp:france (country)
+nước tây ban nha:spain (country)
+nước trung quốc:china (country)
+nước ý:italy (country)
+ông:grandfather
+ô hoặc dù:umbrella
+ô liu:olives
+phép thuật:magic
+phi cơ:airplane
+phi trường:airport
+pho mát:cheese
+phở:pho
+phút:minute
+phương pháp:solution
+quan trọng:important
+quái vật:monster
+quả bom:bom
+quả bơ:avocados
+quả cam:oranges
+quả chanh:lemons
+quả chuối:bananas
+quả dâu tây:strawberries
+quả dưa hấu:watermelon
+quả dứa:pineapples
+quả đào:peaches
+quả lê:pears
+quả nho:grapes
+quả sung hoặc quả vả:figs
+quả táo:apples
+quần áo:clothes
+quần dài:pants (trousers)
+rau củ:vegetables
+rau diếp:lettuce
+rạp chiếu phim:cinema
+răng:teeth
+rẻ:cheap
+rừng:forest
+sandwich:sandwich
+sang trọng:chic
+sa lát / nộm:salad
+sa mạc:desert
+sách tra từ:dictionary
+sạch sẽ:well-groomed
+sense of style:khiếu thẩm mỹ,mắt thẩm mỹ
+séc:check
+siêu thị:supermarket
+sinh viên:student
+soda (giống như coca-cola):soda (like coke)
+sổ sách:books
+sữa:milk
+tai:ear
+tai nạn:accident
+taxi:taxi
+tay:arm
+tàu hỏa (danh từ):train (noun)
+thanh lịch:chic,elegant
+tháng:months
+tháng ba:march
+tháng bảy:july
+tháng chín:september
+tháng giêng or tháng một:january
+tháng hai:february
+tháng mười:october
+tháng mười hai:december
+tháng mười một:november
+tháng năm:may
+tháng sáu:june
+tháng tám:august
+tháng tư:april
+thẻ tín dụng:credit card
+thịt:meat
+thịnh hành:all the rage
+thịt gà:chicken
+thoải mái:comfortable
+thời gian:time
+thời trang nhanh:fast fashion
+thuốc:medicines
+thư giãn:relax
+thư viện:library
+thứ ba:tuesday
+thứ bảy:saturday
+thứ hai:monday
+thứ năm:thursday
+thứ sáu:friday
+thứ tư:wednesday
+thực phẩm / đồ ăn:food
+tiếng ai-len:irish (language)
+tiếng anh:english (language)
+tiếng ả rập:arabic (language)
+tiếng ba tư:persian (language)
+tiếng bồ đào nha:portuguese (language)
+tiếng braxin:brazilian (language)
+tiếng đức:german (language)
+tiếng hàn:korean (language)
+tiếng hindi:hindi (language)
+tiếng hy lạp:greek (language)
+tiếng nga:russian (language)
+tiếng nhật:japanese (language)
+tiếng pháp:french (language)
+tiếng tây ban nha:spanish (language)
+tiếng trung quốc:chinese (language)
+tiếng ý:italian (language)
+tiền mặt:cash
+tim:heart
+tín đồ thời trang:fashionista
+tóc:hair
+tỏi:garlic
+tổng tài bá đạo:crazy ceo
+trang:page
+trang trọng:formal
+trái cây:fruit
+trái đất:earth
+trà:tea
+trạm dừng xe buýt:bus station
+trẻ con:child
+tròn:circle
+trường đại học:university
+trường học:school
+trứng:eggs
+tuyết:snow
+tuyết rơi:snowing
+tủ quần áo:wardrobe
+từ điển:dictionary
+từ vựng:vocabulary
+vai:shoulder
+váy:dress
+vé:ticket
+viện bảo tàng:museum
+ví:wallet
+vòng luân hồi:circle
+vở viết:notebook (paper notebook)
+vợ:wife
+xe buýt:bus
+xe cứu thương:ambulance
+xe ô tô con:car
+y tá:nurse
